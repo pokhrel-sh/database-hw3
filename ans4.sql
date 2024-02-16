@@ -1,3 +1,4 @@
+-- It selects the identity of a customers who purchased tracks longer than 15 minutes.
 SELECT DISTINCT 
     customers.CustomerId,
     customers.FirstName,

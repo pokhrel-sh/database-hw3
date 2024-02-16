@@ -1,3 +1,4 @@
+-- adds the primary key value and director name into the MusicVideo table.
 INSERT INTO MusicVideo (track_ID, video_Director) VALUES (1, "Taylor Swift");
 INSERT INTO MusicVideo (track_ID, video_Director) VALUES (2, "John Cena");
 INSERT INTO MusicVideo (track_ID, video_Director) VALUES (3, "LiL Wayne");
